@@ -40,11 +40,5 @@
     "url": "https://github.com/akoyabio/rtree",
     "via": ["phenoptrReports"],
     "from": "phenoptrReports"
-  },
-  {
-    "package": "vroom",
-    "url": "https://github.com/r-lib/vroom",
-    "via": ["phenoptrExamples", "phenoptr"],
-    "from": "phenoptrExamples"
   }
 ]
