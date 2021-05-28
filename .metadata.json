@@ -1,0 +1,11 @@
+[
+  {
+    "package": "phenoptr"
+  },
+  {
+    "package": "phenoptrReports"
+  },
+  {
+    "package": "phenoptrExamples"
+  }
+]
