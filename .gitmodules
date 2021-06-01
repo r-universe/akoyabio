@@ -18,6 +18,11 @@
 	url = https://github.com/akoyabio/phenoptrExamples
 	shallow = true
 	registered = true
+[submodule "UpSetR"]
+	path = UpSetR
+	url = https://github.com/hms-dbmi/UpSetR
+	shallow = true
+	registered = false
 [submodule "rtree"]
 	path = rtree
 	url = https://github.com/akoyabio/rtree
