@@ -44,12 +44,6 @@
   {
     "package": "vroom",
     "url": "https://github.com/r-lib/vroom",
-    "via": ["phenoptr"],
-    "from": "phenoptr"
-  },
-  {
-    "package": "vroom",
-    "url": "https://github.com/r-lib/vroom",
     "via": ["phenoptrExamples", "phenoptr"],
     "from": "phenoptrExamples"
   },
