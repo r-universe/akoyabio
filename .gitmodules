@@ -13,11 +13,6 @@
 	url = https://github.com/akoyabio/phenoptrReports
 	shallow = true
 	registered = true
-[submodule "phenoptrExamples"]
-	path = phenoptrExamples
-	url = https://github.com/akoyabio/phenoptrExamples
-	shallow = true
-	registered = true
 [submodule "UpSetR"]
 	path = UpSetR
 	url = https://github.com/hms-dbmi/UpSetR
