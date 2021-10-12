@@ -3,6 +3,21 @@
 	url = https://github.com/akoyabio/universe
 	shallow = true
 	branch = HEAD
+[submodule "phenoptr"]
+	path = phenoptr
+	url = https://github.com/akoyabio/phenoptr
+	shallow = true
+	registered = true
+[submodule "phenoptrReports"]
+	path = phenoptrReports
+	url = https://github.com/akoyabio/phenoptrReports
+	shallow = true
+	registered = true
+[submodule "phenoptrExamples"]
+	path = phenoptrExamples
+	url = https://github.com/akoyabio/phenoptrExamples
+	shallow = true
+	registered = true
 [submodule "UpSetR"]
 	path = UpSetR
 	url = https://github.com/hms-dbmi/UpSetR
